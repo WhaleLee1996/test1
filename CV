@@ -9,5 +9,5 @@ $ mv cv-template/* .
 $ rm -rf cv-template* __MACOSX*
 $ git add
 $ git commit-m 'whalelee cv'
-$ git remote add origin https://github.com/whalelee/cv.git
+$ git remote add origin https://github.com/WhaleLee1996/test1.git
 $ git push -u origin master
