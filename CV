@@ -5,5 +5,5 @@ $ git config --global user.name "Whalelee"
 $ git config --global user.email "2513987693@qq.com"
 $ wget http://labfile.oss.aliyuncs.com/courses/624/cv-template.zip
 $ unzip cv-template
-$ mv cv-template/* .
+$ mv cv-template/* 
 $ rm -rf cv-template* __MACOSX*
